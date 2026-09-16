@@ -176,3 +176,11 @@ outputs/
 *.urdf
 *.xml
 *.part
+outputs/
+eval_results_400/
+eval_test/
+demo_videos/
+*.mp4
+*.tar.gz
+*.zip
+pretrained_model/
